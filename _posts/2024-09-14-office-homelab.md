@@ -1,6 +1,6 @@
 ---
 title: The Office Homelab
-date: 2024-09-14 20:00:00 +0300
+date: 2024-09-14 21:00:00 +0300
 categories: [Homelab, Active Directory]
 tags: [windows server, gpo, group policy management, active directory, homelab]     # TAG names should always be lowercase.
 description: Write-up of My Active Directory Homelab Practice.
